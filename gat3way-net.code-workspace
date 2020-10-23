@@ -1,0 +1,17 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../gat3way-net-service"
+        }
+    ],
+    "settings": {
+        "C_Cpp.clang_format_sortIncludes": true,
+        "C_Cpp.default.cppStandard": "c++17",
+        "C_Cpp.default.includePath": [
+            "../gat3way-net/includes/**"
+        ]
+    }
+}
